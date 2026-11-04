@@ -79,7 +79,7 @@ The sample app shows a screen with an offline banner and a retry button.
 
 Built at the mobile developer conference hackathon by:
 
-- *Micah Atemba *
+- *Micah Nyabuto*
 - *Clency Christine*
 
 ## License
